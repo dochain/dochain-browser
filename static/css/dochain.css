@@ -1,0 +1,24 @@
+ .navbar {
+    background-color: #2e9ad0;
+ }
+ .mainMenu ul li.active a {
+    background-color: #2e9ad0;
+ }
+.mainMenu {
+    background-color: #232328;
+}
+.appWrapper .appContainer .appHeader h1.pageTitle {
+    color: #2e9ad0;
+}
+a {
+    color: #2e9ad0;
+}
+.footer {
+    background: #232328;
+}
+.btn-primary {
+    border-color: #2e9ad0;
+}
+.navbar-brand {
+    height: 60px !important;
+}
